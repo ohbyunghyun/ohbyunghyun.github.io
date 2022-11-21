@@ -18,7 +18,7 @@ darkavatar: /assets/images/dark_bauhaus_logo.png
 tagline: Hello
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
+description: Hello
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url: https://ohbyunghyun.github.io
